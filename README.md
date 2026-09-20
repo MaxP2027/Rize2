@@ -3,6 +3,7 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
+READ ME UPDATE [![Deploy to GitHub Pages](https://github.com/MaxP2027/Rize2/actions/workflows/deploy.yml/badge.svg)](https://github.com/MaxP2027/Rize2/actions/workflows/deploy.yml)
 ## Project Structure
 
 ```
