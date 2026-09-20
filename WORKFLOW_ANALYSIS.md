@@ -1,6 +1,6 @@
 This workflow runs two ways, when someone pushes to main and when someone opens a pull request intco main. So basically any change headed towards main will set it off.
 
-There's four steps in the build-and-test job: checkout code, validate HTML, check links, and upload artifact. Deploy job runs after that, but only once those four are done.
+There's four steps in the process which are  checkout code, validate HTML, check links, and upload artifact. Deploy job runs after that, but only once those four are done.
 
 Checkout code pulls your files onto the machine, since GitHub Actions starts with a totally empty machine every time. Without this step there'd be nothing for the other steps to even work with.
 
