@@ -1,4 +1,4 @@
-This workflow runs two ways, when someone pushes to main and when someone opens a pull request intco main. So basically any change headed towards main will set it off.
+This workflow runs two ways, when someone pushes to main and when someone opens a pull request into main. So basically any change headed towards main will set it off.
 
 There's four steps in the process which are  checkout code, validate HTML, check links, and upload artifact. Deploy job runs after that, but only once those four are done.
 
